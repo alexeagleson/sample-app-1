@@ -11,6 +11,10 @@ const Home: NextPage = () => {
         It has a dependency on <code>tsdx-sample-component-library</code>
       </p>
 
+      <p>
+        app-1 can be managed and worked on as a separate application and pulled into the core app when ready to release an update
+      </p>
+
       <Button>Component Library Button</Button>
     </div>
   );
